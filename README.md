@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there 👋
+
+![Codewars](https://github.r2v.ch/codewars?user=CR0YD&top_languages=true&theme=gradient_midnight_puple)
 
 <!--
 **CR0YD/CR0YD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
